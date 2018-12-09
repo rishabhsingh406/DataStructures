@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  Graph.cpp
+  Graphs.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\utility(239): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+  c:\users\rishabh\source\repos\graphs\graphs\graph.h(46): note: see reference to function template instantiation 'std::pair<int,vertex *>::pair<double,vertex*,0>(std::pair<double,vertex *> &&) noexcept' being compiled
+  c:\users\rishabh\source\repos\graphs\graphs\graph.h(46): note: see reference to function template instantiation 'std::pair<int,vertex *>::pair<double,vertex*,0>(std::pair<double,vertex *> &&) noexcept' being compiled
+  interval_map.cpp
+  Generating Code...
+  Graphs.vcxproj -> C:\Users\Rishabh\source\repos\Graphs\x64\Debug\Graphs.exe
